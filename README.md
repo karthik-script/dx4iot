@@ -29,42 +29,44 @@ Enthusiastic about technology, I have a passion for web development and uphold h
 </div>
 
 <br/>
-
-<h2 align="center">🎁 Projects 🎁</h2>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/cestela/socialised"><b>Picture sharing social media </b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/cestela/socialised?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/cestela/socialised?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/cestela/socialised?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cestela/socialised?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/cestela/brownie_fund_me"><b>Smart Contract Application from FreeCodeCamp</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/cestela/brownie_fund_me?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/cestela/brownie_fund_me?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/cestela/brownie_fund_me?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cestela/brownie_fund_me?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>Instacart Crawler - QA</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/cestela/instacart_catalog-master-qa?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/cestela/instacart_catalog-master-qa?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/cestela/instacart_catalog-master-qa?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cestela/instacart_catalog-master-qa?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
+<div align="center"> 
+    <h2 align="center">🎁 Projects 🎁</h2>
+    <table>
+      <thead align="center">
+        <tr border: none;>
+          <td><b>🎁 Projects</b></td>
+          <td><b>⭐ Stars</b></td>
+          <td><b>📚 Forks</b></td>
+          <td><b>🛎 Issues</b></td>
+          <td><b>📬 Pull requests</b></td>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><a href="https://github.com/cestela/socialised"><b>Picture sharing social media </b></a></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/cestela/socialised?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/cestela/socialised?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/cestela/socialised?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cestela/socialised?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/cestela/brownie_fund_me"><b>Smart Contract Application from FreeCodeCamp</b></a></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/cestela/brownie_fund_me?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/cestela/brownie_fund_me?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/cestela/brownie_fund_me?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cestela/brownie_fund_me?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>Instacart Crawler - QA</b></a></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/cestela/instacart_catalog-master-qa?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/cestela/instacart_catalog-master-qa?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/cestela/instacart_catalog-master-qa?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cestela/instacart_catalog-master-qa?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+      </tbody>
+    </table>
+    
+</div>
 
 <h2 align="center">📊 Github Stats 📊</h2>
 
