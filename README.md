@@ -24,8 +24,7 @@ Enthusiastic about technology, I have a passion for web development and uphold h
 
 <h2 align="center">⚒🤖 QA tools 🤖</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=selenium" /><br>
-</div>
+<a href="https://www.cypress.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353630/cypress.svg" alt="cypress" width="45" height="45"/></a> <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="MySQL" width="45" height="45"/></a> <a href="https://rest-assured.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/dx4iot/dx4iot/assets/155094713/da91bb88-699f-4651-87b1-7b4899c96112" alt="restassured" width="45" height="45"/></div>
 
 <br/>
 
