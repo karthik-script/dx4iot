@@ -30,7 +30,7 @@ Enthusiastic about technology, I have a passion for web development and uphold h
 
 <br/>
 
-<h3>Open source projects</h3>
+<h2 align="center">🎁 Projects 🎁</h2>
 <table>
   <thead align="center">
     <tr border: none;>
