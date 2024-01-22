@@ -29,16 +29,16 @@ Enthusiastic about technology, I have a passion for web development and uphold h
 
 <br/>
 
-<h2 align="center">🐥 Frontend tools 🐥</h2>
+<h2 align="center">🐥 Frontend & Backend tools 🐥</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vue.js,react" /><br>
+    <img src="https://skillicons.dev/icons?i=vue.js,react,express" /><br>
 </div>
 
 <br/>
 
-<h2 align="center">⚒️ Backend tools ⚒️</h2>
+<h2 align="center">⚒️ Programming Languages ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/iconsi=express" /><br>
+    <img src="https://skillicons.dev/iconsi=javascript,java,python,c" /><br>
 </div>
 
 <br/>
