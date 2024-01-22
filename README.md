@@ -20,8 +20,8 @@ To showcase my evolving skills and projects, I have chosen GitHub as a platform 
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github" />
-    <img src="https://skillicons.dev/icons?i=javascript,python,java,react,vue,express,selenium" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github" />
+    <img src="https://skillicons.dev/icons?i=python,r,mysql,excel" /><br>
 </div>
 
 <br/>
