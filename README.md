@@ -15,7 +15,6 @@
   </a>
 </div>
 
-Tablue Public: 
 <br> 
 
 With over 5 years of experience in the IT sector, I am enthusiastic about transitioning into the dynamic field of data analytics. My extensive background has equipped me with valuable skills in troubleshooting, problem-solving, and system management, all of which seamlessly align with the analytical demands of data analysis. As I embark on this new journey, I am excited to leverage my IT expertise and expand my proficiency in data analytics tools such as PowerBI, Tableau, and SQL through ongoing training and practical projects.
