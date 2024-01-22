@@ -22,14 +22,14 @@ Enthusiastic about technology, I have a passion for web development and uphold h
 - 📫 How to reach me: youremail@gmail.com
 
 
-<h2 align="center">⚒️ QA tools ⚒️</h2>
+<h2 align="center">⚒🤖 QA tools 🤖</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=selenium,gitlab,jenkins" /><br>
 </div>
 
 <br/>
 
-<h2 align="center">⚒️ Frontend tools ⚒️</h2>
+<h2 align="center">🐥 Frontend tools 🐥</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vue.js,react" /><br>
 </div>
