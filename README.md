@@ -22,10 +22,23 @@ Enthusiastic about technology, I have a passion for web development and uphold h
 - 📫 How to reach me: youremail@gmail.com
 
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ QA tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github" />
-    <img src="https://skillicons.dev/icons?i=javascript,python,java,react,vue,express,selenium,gitlab,jenkins" /><br>
+    <img src="https://skillicons.dev/icons?i=selenium,gitlab,jenkins" /><br>
+</div>
+
+<br/>
+
+<h2 align="center">⚒️ Frontend tools ⚒️</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vue.js,react" /><br>
+</div>
+
+<br/>
+
+<h2 align="center">⚒️ Backend tools ⚒️</h2>
+<div align="center">
+    <img src="https://skillicons.dev/iconsi=express" /><br>
 </div>
 
 <br/>
