@@ -22,29 +22,49 @@ Enthusiastic about technology, I have a passion for web development and uphold h
 - 📫 How to reach me: youremail@gmail.com
 
 
-<h2 align="center">⚒🤖 QA tools 🤖</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-<a href="https://www.cypress.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353630/cypress.svg" alt="cypress" width="45" height="45"/></a> <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="MySQL" width="45" height="45"/></a> <a href="https://rest-assured.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/dx4iot/dx4iot/assets/155094713/da91bb88-699f-4651-87b1-7b4899c96112" alt="restassured" width="45" height="45"/>
-
-
-
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=javascript,python,java,react,vue,express,selenium,gitlab,jenkins" /><br>
 </div>
 
 <br/>
 
-<h2 align="center">🐥 Frontend & Backend tools 🐥</h2>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=vue.js,react,express" /><br>
-</div>
-
-<br/>
-
-<h2 align="center">⚒️ Programming Languages ⚒️</h2>
-<div align="center">
-        <img src="https://skillicons.dev/icons?i=javascript,java,python,html,css" /><br>
-</div>
-
-<br/>
+<h3>Open source projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/cestela/socialised"><b>Picture sharing social media </b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/cestela/socialised?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/cestela/socialised?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/cestela/socialised?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cestela/socialised?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/cestela/brownie_fund_me"><b>Smart Contract Application from FreeCodeCamp</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/cestela/brownie_fund_me?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/cestela/brownie_fund_me?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/cestela/brownie_fund_me?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cestela/brownie_fund_me?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>Instacart Crawler - QA</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/cestela/instacart_catalog-master-qa?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/cestela/instacart_catalog-master-qa?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/cestela/instacart_catalog-master-qa?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cestela/instacart_catalog-master-qa?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
 
 <h2 align="center">📊 Github Stats 📊</h2>
 
