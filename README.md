@@ -24,7 +24,7 @@ Enthusiastic about technology, I have a passion for web development and uphold h
 
 <h2 align="center">⚒🤖 QA tools 🤖</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=selenium,gitlab,jenkins" /><br>
+    <img src="https://skillicons.dev/icons?i=selenium" /><br>
 </div>
 
 <br/>
@@ -38,7 +38,7 @@ Enthusiastic about technology, I have a passion for web development and uphold h
 
 <h2 align="center">⚒️ Programming Languages ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/iconsi=javascript,java,python,c" /><br>
+        <img src="https://skillicons.dev/icons?i=javascript,java,python,html,css" /><br>
 </div>
 
 <br/>
