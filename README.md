@@ -33,7 +33,3 @@ To showcase my evolving skills and projects, I have chosen GitHub as a platform 
 
 <br/>
 
-<h2 align="center">📊 Github Stats 📊</h2>
-
-![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cestela&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cestela&show_icons=true&theme=radical)
