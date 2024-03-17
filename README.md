@@ -1,17 +1,14 @@
 <h1 align="center">
     <img src="https://github.com/dx4iot/dx4iot/blob/main/cover%20image.png" />
 </h1>
-<h3 align="center">Junior Data Analyst / IT</h3>
+<h3 align="center">Freelancer | Udemy Instructor</h3>
 
 <div align="center"> 
-  <a href="miahsaydul@gmail.com" target="_blank">
+  <a href="dx4iot@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a> 
-  <a href="www.linkedin.com/in/saydul-m" target="_blank">
+  <a href="www.linkedin.com/in/dx4iot" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://public.tableau.com/app/profile/craig.payne/viz/ThewealthofnationsbySaydulMiah/Dashboard1#1" target="_blank">
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" target="_blank" />
   </a>
 </div>
 
