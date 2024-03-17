@@ -17,18 +17,24 @@
 
 <br> 
 
-With over 5 years of experience in the IT sector, I am enthusiastic about transitioning into the dynamic field of data analytics. My extensive background has equipped me with valuable skills in troubleshooting, problem-solving, and system management, all of which seamlessly align with the analytical demands of data analysis. As I embark on this new journey, I am excited to leverage my IT expertise and expand my proficiency in data analytics tools such as PowerBI, Tableau, and SQL through ongoing training and practical projects.
+As a passionate Freelancer and Udemy Instructor, I've had the incredible opportunity to guide over 1 lakh+ students through the fascinating world of Python programming. My expertise extends beyond Python, encompassing languages like C, C++, JavaScript, HTML, and CSS.
 
-To showcase my evolving skills and projects, I have chosen GitHub as a platform for its collaborative nature and industry-wide recognition. It provides a transparent and accessible space for potential employers to explore my repository, delve into my coding projects, and gain insights into my approach to data analysis. GitHub serves as a testament to my commitment to continuous learning and my dedication to building a strong foundation in the field of data analytics.
+With a keen interest in cybersecurity, I actively engage in bug bounty programs and ethical hacking, ensuring that I stay at the forefront of digital security. My knowledge spans across areas such as networking, cryptography, and more, allowing me to provide comprehensive insights into the dynamic field of cybersecurity.
 
-- 🔭 I’m currently working on **PowerBi and Tableau**
-- 💬 Ask me about **React and Vue.js**
-- 📫 How to reach me: miahsaydul@gmail.com
+When not immersed in the world of code, I pursue another passion as a Stock Photographer. Capturing moments through my lens is not just a hobby but a creative outlet that adds a unique dimension to my professional journey.
+
+Additionally, I dabble in trading during my free time, exploring the intricacies of financial markets. This multifaceted approach to my career reflects my commitment to continuous learning and embracing diverse interests.
+
+Let's connect! Whether you're a fellow enthusiast in programming, cybersecurity, photography, or trading, I'm always open to engaging with like-minded individuals. Feel free to reach out, and let's embark on this journey of knowledge and creativity together!
+
+- 🔭 I’m currently working on **Bug Bounty**
+- 💬 Ask me about **Python**
+- 📫 How to reach me: dx4iot@gmail.com
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github" />
-    <img src="https://skillicons.dev/icons?i=python,r,mysql,excel" /><br>
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css," /><br>
 </div>
 
 <br/>
