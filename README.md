@@ -14,7 +14,6 @@
 
 <br>
 
-MarcFiani is an accomplished Data Scientist known for driving transformative innovation through impactful data-driven solutions and leading high-performing cross-functional teams. With deep expertise in Python, SQL, AWS, GCP, and Docker, coupled with a robust understanding of the Modern Data Stack and machine learning frameworks, MarcFiani demonstrates a keen ability to align technology investments with business objectives. 
 <div align="center">
  
  🔭 I’m currently working on **building impactful data-driven solutions**
