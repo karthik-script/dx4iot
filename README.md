@@ -1,10 +1,8 @@
 <h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nishant+Tiwari!;" />
 </h1>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <img src="https://github.com/dx4iot/dx4iot/blob/main/cover%20image.png">
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h3 align="left">Programmer | Bug Bounty | Cyber Security</h3>
 
@@ -34,8 +32,10 @@ Let's connect! Whether you're a fellow enthusiast in programming, cybersecurity,
  </div>
 
 <div align="left">
-  <h3>Tools that I use:</h3>
-  
+  <h2 align="left">⚙️ Tools that I use: ⚙️</h2>
+
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
   ![Visual Studio](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
   ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
@@ -66,6 +66,8 @@ Let's connect! Whether you're a fellow enthusiast in programming, cybersecurity,
   ![Tauri](	https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=Tauri&logoColor=white)
   ![Next](	https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
   ![TypeScript](	https://img.shields.io/badge/typescript-415bc6?style=for-the-badge&logo=typescript&logoColor=white)
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 </div>
 <br>
 
