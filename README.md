@@ -1,4 +1,4 @@
-<img src="https://github.com/dx4iot/dx4iot/blob/main/cover%20image.png">
+<img src="https://github.com/dx4iot/dx4iot/blob/main/cover-img.png">
 
 <h3 align="left">Programmer | Bug Bounty | Cyber Security</h3>
 
